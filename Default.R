@@ -53,7 +53,3 @@ plot(data$income, data$balance, xlab = "Income", ylab = "CC Balance",
 abline(model3, col = "blue")
 i <- order(data$income)
 lines(data$income[i], model4$fitted[i], col = "red")
-
-
-
-
