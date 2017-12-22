@@ -21,6 +21,9 @@ boxplot(data$income)
 unique(data$default)
 unique(data$student)
 
+duplicates <- data[duplicated(data),]
+head(duplicates)
+
 data$balance[which(data$student == "Yes" & data$balance == 0)] <- 100
 
 # probit to model default on student status, CC balance and income
