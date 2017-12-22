@@ -14,6 +14,7 @@ boxplot(data$income)
 
 # cleaning the data
 # check the qualitative variables to see if entries other than "Yes" or "No"
+# check for any duplicate entries
 #
 # also, assume that there was a data entry error 
 # students with a $0 balance actually have a balance of $100
