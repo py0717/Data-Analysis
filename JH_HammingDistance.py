@@ -34,7 +34,6 @@ while True:
         break
     else:
         print("Please enter two strands of equal length. \n ")
-        pass
 
 # check for number of mutations (or hamming difference)
 # print out result
@@ -44,11 +43,8 @@ number_mutations = 0
 while counter < len(strand1):
     if strand1[counter] == strand2[counter]:
         counter += 1
-        pass
     else:
         number_mutations += 1
         counter += 1
-        pass
-
 
 print("Hamming distance (number of mutations) =", number_mutations)
