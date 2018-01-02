@@ -10,19 +10,15 @@ def obtain_dna(counter):
         user_input = list(input("Please enter the sequence(consisting of the nucleotides 'G', 'C', 'A', 'T'): "))
         user_input = list(''.join(user_input).upper())
 
-        repeat = 0
-
         for i in user_input:
             if i not in "GCTA":
                 print("Please enter the DNA sequence correctly. ")
-                repeat = 1
-                break
             else:
-                    pass
+                repeat = 0
 
     return user_input
 
-# obtain true strands from user using obtain_dna function
+# obtain two strands from user using obtain_dna function
 # check to make sure they are of equal length
 while True:
     strand1 = obtain_dna(1)
