@@ -16,7 +16,7 @@ Analysis code is written for R.
 
 Description of Each File in Directory
 --------------------------------
-Part1: script to merge 51 states and output merged data
+Part1: script to merge the 51 files and output merged dataset
 
 Part2: script to identify gender-neutral names
 
