@@ -10,9 +10,11 @@ The goals of this project are to:
 
 Description of Data
 -----------------------
-The raw data for this project comes from data.gov. It consists of 51 files (one for each state and Washington DC). 
+The raw data for this project comes from [data.gov](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-data-by-state-and-district-of-). It consists of 51 files (one for each state and Washington DC). 
 
 Analysis code is written for R.
+
+
 
 Description of Each File in Directory
 --------------------------------
