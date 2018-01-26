@@ -24,7 +24,7 @@ Part2: script to identify gender-neutral names
 
 Part3: script to identify which states set trends versus follow
 
-final.dataset: merged data from Part1 with roughly 6 million observations
+final.dataset: merged data from Part1 (roughly 6 million observations)
 
 Author
 ----------------------
