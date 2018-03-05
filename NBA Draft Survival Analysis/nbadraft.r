@@ -1,4 +1,6 @@
 # Survival Analysis of Basketball Players Drafted by NBA
+# Time = number of games played in NBA
+# Status = whether a player is inactive in the league (retired, cut, etc)
 library(survival)
 
 getwd()
