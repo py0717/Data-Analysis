@@ -1,6 +1,6 @@
 ##########################################################################################
 # Time Series Analysis: Points Scored Each Game by Russell Westbrook in 2016-2017 Season #
-# First Model = Simple Exponential Smoothing                                                    #
+# First Model = Simple Exponential Smoothing                                             #
 # Second Model = ARIMA                                                                   #
 ##########################################################################################
 
