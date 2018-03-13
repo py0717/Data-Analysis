@@ -1,7 +1,7 @@
 # using Default dataset from ISLR package
 library(ISLR)
 data <- Default
-
+ 
 ?Default
 
 # data clean
