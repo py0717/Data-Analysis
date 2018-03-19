@@ -7,7 +7,7 @@ Goals
 ------------------------
 The goals of this project are to:
 1) Conduct a Kaplan-Meier survival analysis of all players
-2) Conduct a Kaplan-Meier survival comparison by position (guards, forwards, centers)
+2) Conduct a Kaplan-Meier survival analysis comparison by position (guards, forwards, centers)
 3) Perform Cox proportional-hazards model
 
 
