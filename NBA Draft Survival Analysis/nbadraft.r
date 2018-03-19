@@ -72,3 +72,7 @@ cox <- coxph(Surv(data2$G, data2$Status) ~ vars, na.action=na.exclude, method ="
 summary(cox)
 
 detach(data2)
+
+
+
+
