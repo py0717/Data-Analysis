@@ -68,7 +68,7 @@ attach(data2)
 
 vars <- cbind(Pk,Age,Pos)
 
-cox <- coxph(Surv(data2$G, data2$Status) ~ vars, na.action=na.exclude, method ="breslow")
+cox <- coxph(Surv(G, Status) ~ vars, na.action=na.exclude, method ="breslow")
 summary(cox)
 
 detach(data2)
