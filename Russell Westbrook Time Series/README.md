@@ -1,9 +1,11 @@
-Research Assignment
+Introduction
 ---------------------
 In 2016-2017, Russell Westbrook of the Oklahoma City Thunder had a historic year. In addition to winning the MVP award and scoring title, 
-he averaged a triple double. He became just the second player in history to average a triple double (the last time was in 1962) over a 
-whole season.
+he averaged a triple double. He became just the second player in history to average a triple double (the last time was in 1961-1962) over a whole season.
 
+
+Overview
+----------------------
 This is an analysis of Westbrook's points per game (PPG). 
 
 
