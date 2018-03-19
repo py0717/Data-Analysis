@@ -1,4 +1,4 @@
-Research Assignment
+Overview
 ---------------------
 This project aims to model the career length of players drafted into the NBA.
 
