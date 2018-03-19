@@ -60,9 +60,9 @@ acf(RWForecast$residuals, na.action=na.pass, lag.max=20)  # lags 2 and 3 exceed 
 Box.test(RWForecast$residuals, lag=20, type="Ljung-Box")
 
 
-############### 
-# ARIMA MODEL #
-###############
+####################### 
+# ARIMA MODEL / MA(3) #
+#######################
 
 # use auto.arima function to obtain best ARIMA model
 auto.arima(RW)
