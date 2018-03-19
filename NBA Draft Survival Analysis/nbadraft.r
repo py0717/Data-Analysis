@@ -64,9 +64,11 @@ survdiff(Surv(G, Status) ~ Pos, na.action=na.exclude, data=data2, rho=1)
 
 # Cox Proportional Hazard Models - Coefficients and Hazard Rates
 # independent variables used: player's overall pick number, age and position
+attach(data2)
+
 vars <- cbind(Pk,Age,Pos)
 
 cox <- coxph(Surv(data2$G, data2$Status) ~ vars, na.action=na.exclude, method ="breslow")
 summary(cox)
 
-
+detach(data2)
