@@ -1,8 +1,3 @@
-Introduction
-----------------------
-Bitcoin is a digital currency and payment system, whose value is derived by supply and demand. Its price is heavily influenced by public perception and has been very volatile. 
-
-
 Goals
 ------------------------
 The goal of this project is to perform a time series analysis of Bitcoin. I will model/forecast the price of Bitcoin using the "closing price" from the last 90 days (12/17/2018 - 3/16/2018).
