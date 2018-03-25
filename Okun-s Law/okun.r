@@ -3,7 +3,8 @@
 ######################
 
 # Okun's Law (Differences Version) states that a 1 point increase in unemployment rate is associated with a 3 point decrease in  
-#   real GDP (some texts suggest a 2 point decrease). We will test Okun's Law using annual data from Korea and Brazil.
+#   real GDP (some texts suggest a 2 point decrease). We will test Okun's Law using annual data from Korea and Brazil. The data 
+#   was obtained from Federal Reserve Bank of St Louis's website (https://fred.stlouisfed.org/)
 
 
 #########
