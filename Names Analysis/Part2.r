@@ -59,9 +59,9 @@ gender.counter
 # unisex. 
 #
 # This analysis covers the time span of 1910-2016. Therefore, it does not take into account if there was a 
-# change in the genders that a name is assigned to over time. For example, maybe the name XYZ was given primarily 
-# to males in the past but is now primarily given to females. It would be interesting to do this research 
-# in smaller increments of time (maybe 5 or 10 years) to see this.
+# change in the genders that a name is assigned to over time. For example, it may be the case that a name 
+# XYZ was given primarily to males in the past but is now primarily given to females. It would be interesting 
+# to do this research in smaller increments of time (maybe 5 or 10 years) to see this.
 
 
 
