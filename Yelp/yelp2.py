@@ -1,7 +1,5 @@
 import json
-import pandas as pd
 from pandas import DataFrame
-from collections import Counter
 import csv
 
 def convert_json_to_list(filepath):
