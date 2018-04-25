@@ -2,8 +2,6 @@
 library(tseries)
 library(forecast)
 
-getwd()
-
 bitcoin <- read.csv("bitcoin history.csv")
 head(bitcoin)
 
