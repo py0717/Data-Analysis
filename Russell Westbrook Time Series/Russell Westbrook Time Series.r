@@ -1,7 +1,7 @@
 ##########################################################################################
-# Time Series Analysis: Points Per Game by Russell Westbrook in 2016-2017 Season #
+# Time Series Analysis: Points Per Game by Russell Westbrook in 2016-2017 Season         #
 # First Model = Simple Exponential Smoothing                                             #
-# Second Model = ARIMA(0,0,3) / MA(3)                                                                 #
+# Second Model = ARIMA(0,0,3) / MA(3)                                                    #
 ##########################################################################################
 
 # set up
